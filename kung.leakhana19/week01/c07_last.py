@@ -1,4 +1,4 @@
-a=input("Enter something:")
+a=input("Enter something: ")
 if a:
     print(a[-1])
 else:

@@ -1,4 +1,4 @@
-a=input("Enter a word:")
+a=input("Enter a word: ")
 if len(a)==0:
     print("0000")
 elif len(a)==1:

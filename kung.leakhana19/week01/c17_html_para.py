@@ -1,6 +1,6 @@
-list=[]
+list = []
 while True:
-    ch=input("Enter a sentence:")
+    ch = input("Enter a sentence: ")
     list.append(ch)
     if len(list)==1 and ch=="GENERATE":
         list.remove("GENERATE")

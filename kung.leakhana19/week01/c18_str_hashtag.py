@@ -1,4 +1,4 @@
-a=input("Enter something:")
+a=input("Enter something: ")
 x=a.find("#")
 if'#' in a:
     print(a[:x])
